@@ -4,6 +4,12 @@
 
 ### 2. cd react ...
 
-### npm install (va dura putin)
+### 3. npm install (va dura putin)
 
-### npm start
+### 4. npm start
+
+
+
+# Deploy on Netlify
+
+https://quiztime22.netlify.app/
